@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: jenkins-pdf-data-extractor-plugin-$NEXT_MINOR_VERSION
